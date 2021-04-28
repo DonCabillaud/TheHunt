@@ -3,114 +3,114 @@
 "../../../Engine/Content/EditorMaterials/GeometryCollection/SelectedGeometryMaterial.uasset" 2
 "../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 3
 "D:/Unreal Projects/TheHunt/Content/Cube_GeometryCollection.uasset" 4
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 5
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 6
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 7
-"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/tesselatedSand/SandTesselation2.uasset" 8
-"D:/Unreal Projects/TheHunt/Content/UI/Images/ShotgunShot/TEX_UI_Crosshair-Shotgun_shoot.uasset" 9
-"D:/Unreal Projects/TheHunt/Content/UI/Images/ShotgunShot/TEX_UI_Crosshair-Shotgun_Normal_chauffe2.uasset" 10
-"D:/Unreal Projects/TheHunt/Content/UI/Images/ShotgunShot/TEX_UI_Crosshair-Shotgun_Normal_chauffe1.uasset" 11
-"D:/Unreal Projects/TheHunt/Content/UI/Images/ShotgunShot/TEX_UI_Crosshair-Shotgun_chauffe2.uasset" 12
-"D:/Unreal Projects/TheHunt/Content/UI/Images/ShotgunShot/TEX_UI_Crosshair-Shotgun_chauffe1.uasset" 13
-"D:/Unreal Projects/TheHunt/Content/UI/Images/Selection/TEX_UI_Gun_icone_Pompe.uasset" 14
-"D:/Unreal Projects/TheHunt/Content/UI/Images/Selection/TEX_UI_Gun_icone_Normal.uasset" 15
-"D:/Unreal Projects/TheHunt/Content/UI/Images/Selection/TEX_UI_Gun_icone_Laser.uasset" 16
-"D:/Unreal Projects/TheHunt/Content/UI/Images/NormalShot/TEX_UI_Crosshair-Normal_Normal_chauffe2.uasset" 17
-"D:/Unreal Projects/TheHunt/Content/UI/Images/NormalShot/TEX_UI_Crosshair-Normal_Normal_chauffe1.uasset" 18
-"D:/Unreal Projects/TheHunt/Content/UI/Images/NormalShot/TEX_UI_Crosshair-Normal_chauffe2.uasset" 19
-"D:/Unreal Projects/TheHunt/Content/UI/Images/NormalShot/TEX_UI_Crosshair-Normal_chauffe1.uasset" 20
-"D:/Unreal Projects/TheHunt/Content/UI/Images/NormalShot/HUD-V2_aim_shoot.uasset" 21
-"D:/Unreal Projects/TheHunt/Content/UI/Images/NormalShot/HUD-V2_aim_normal.uasset" 22
-"D:/Unreal Projects/TheHunt/Content/UI/Images/BounceShot/TEX_UI_Crosshair-Laser_shoot.uasset" 23
-"D:/Unreal Projects/TheHunt/Content/UI/Images/BounceShot/TEX_UI_Crosshair-Laser_Normal_chauffe2.uasset" 24
-"D:/Unreal Projects/TheHunt/Content/UI/Images/BounceShot/TEX_UI_Crosshair-Laser_Normal_chauffe1.uasset" 25
-"D:/Unreal Projects/TheHunt/Content/UI/Images/BounceShot/TEX_UI_Crosshair-Laser_chauffe2.uasset" 26
-"D:/Unreal Projects/TheHunt/Content/UI/Images/BounceShot/TEX_UI_Crosshair-Laser_chauffe1.uasset" 27
-"D:/Unreal Projects/TheHunt/Content/UI/Images/BounceShot/TEX_UI_Crosshair-Laser.uasset" 28
-"D:/Unreal Projects/TheHunt/Content/UI/Images/ShotgunShot/TEX_UI_Crosshair-Shotgun.uasset" 29
-"D:/Unreal Projects/TheHunt/Content/UI/Fonts/Red_World.uasset" 30
-"D:/Unreal Projects/TheHunt/Content/UI/Fonts/Red_World_Font.uasset" 31
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset" 32
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset" 33
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 34
-"D:/Unreal Projects/TheHunt/Content/Blueprints/Environment/UpgradePart.uasset" 35
-"D:/Unreal Projects/TheHunt/Content/UI/HUD/PlayerWidget.uasset" 36
-"D:/Unreal Projects/TheHunt/Content/UI/Menus/GameOverScreen.uasset" 37
-"D:/Unreal Projects/TheHunt/Content/UI/Images/RT_UI_Gun.uasset" 38
-"D:/Unreal Projects/TheHunt/Content/UI/Images/MAT_RT_UI_Gun.uasset" 39
-"D:/Unreal Projects/TheHunt/Content/UI/Fonts/WARNING.uasset" 40
-"D:/Unreal Projects/TheHunt/Content/UI/Fonts/WARNING_Font.uasset" 41
-"D:/Unreal Projects/TheHunt/Content/UI/Menus/PauseMenu.uasset" 42
-"D:/Unreal Projects/TheHunt/Content/Blueprints/Interfaces/RotateOwnerBP.uasset" 43
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 44
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 45
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 46
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 47
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPersonRun.uasset" 48
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 49
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 50
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 51
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 52
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 53
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 54
-"D:/Unreal Projects/TheHunt/Content/UI/HUD/DamageScreen.uasset" 55
-"D:/Unreal Projects/TheHunt/Content/UI/HUD/BulletTimeScreen.uasset" 56
-"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/tesselatedSand/sandtesselated.uasset" 57
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 58
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 59
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 60
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Textures/T_Male_N.uasset" 61
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 62
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 63
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 64
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 65
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 66
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 67
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 68
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 69
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 70
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 71
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 72
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 73
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 74
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 75
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 76
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 77
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 78
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 79
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 80
-"../../../Engine/Content/BasicShapes/Plane.uasset" 81
-"D:/Unreal Projects/TheHunt/Content/Materials/ThermicVision/Thermal_Param.uasset" 82
-"D:/Unreal Projects/TheHunt/Content/Materials/ThermicVision/NoiseMask.uasset" 83
-"D:/Unreal Projects/TheHunt/Content/Materials/ThermicVision/Thermal_PP.uasset" 84
-"D:/Unreal Projects/TheHunt/Content/Materials/ThermicVision/Thermal_PP_Inst.uasset" 85
-"D:/Unreal Projects/TheHunt/Content/Blueprints/Hunter_BP.uasset" 86
-"D:/Unreal Projects/TheHunt/Content/Geometry/Meshes/CubeMaterial.uasset" 87
-"D:/Unreal Projects/TheHunt/Content/Geometry/Meshes/1M_Cube.uasset" 88
-"D:/Unreal Projects/TheHunt/Content/Blueprints/Environment/DestroyEnvionment.uasset" 89
-"D:/Unreal Projects/TheHunt/Content/FX/LaserBeam/M_LaserBeam.uasset" 90
-"D:/Unreal Projects/TheHunt/Content/FX/LaserBeam/P_LaserBeam.uasset" 91
-"D:/Unreal Projects/TheHunt/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 92
-"D:/Unreal Projects/TheHunt/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 93
-"D:/Unreal Projects/TheHunt/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 94
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 95
-"D:/Unreal Projects/TheHunt/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 96
-"D:/Unreal Projects/TheHunt/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 97
-"D:/Unreal Projects/TheHunt/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 98
-"D:/Unreal Projects/TheHunt/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 99
-"D:/Unreal Projects/TheHunt/Content/StarterContent/Textures/T_Burst_M.uasset" 100
-"D:/Unreal Projects/TheHunt/Content/StarterContent/Particles/Materials/M_Burst.uasset" 101
+"D:/Unreal Projects/TheHunt/Content/FX/LaserBeam/M_LaserBeam.uasset" 5
+"D:/Unreal Projects/TheHunt/Content/FX/LaserBeam/P_LaserBeam.uasset" 6
+"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/tesselatedSand/sandtesselated.uasset" 7
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 8
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 9
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 10
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 11
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 12
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 13
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 14
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 15
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 16
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 17
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 18
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 19
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Textures/T_Male_N.uasset" 20
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 21
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 22
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 23
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 24
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 25
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 26
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 27
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 28
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 29
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 30
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 31
+"../../../Engine/Content/BasicShapes/Plane.uasset" 32
+"D:/Unreal Projects/TheHunt/Content/Materials/ThermicVision/Thermal_Param.uasset" 33
+"D:/Unreal Projects/TheHunt/Content/Materials/ThermicVision/NoiseMask.uasset" 34
+"D:/Unreal Projects/TheHunt/Content/Materials/ThermicVision/Thermal_PP.uasset" 35
+"D:/Unreal Projects/TheHunt/Content/Materials/ThermicVision/Thermal_PP_Inst.uasset" 36
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 37
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 38
+"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/tesselatedSand/SandTesselation2.uasset" 39
+"D:/Unreal Projects/TheHunt/Content/Blueprints/Interfaces/RotateOwnerBP.uasset" 40
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 41
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 42
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 43
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 44
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPersonRun.uasset" 45
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 46
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 47
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 48
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 49
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 50
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 51
+"D:/Unreal Projects/TheHunt/Content/UI/HUD/BulletTimeScreen.uasset" 52
+"D:/Unreal Projects/TheHunt/Content/UI/HUD/DamageScreen.uasset" 53
+"D:/Unreal Projects/TheHunt/Content/UI/Images/ShotgunShot/TEX_UI_Crosshair-Shotgun_shoot.uasset" 54
+"D:/Unreal Projects/TheHunt/Content/UI/Images/ShotgunShot/TEX_UI_Crosshair-Shotgun_Normal_chauffe2.uasset" 55
+"D:/Unreal Projects/TheHunt/Content/UI/Images/ShotgunShot/TEX_UI_Crosshair-Shotgun_Normal_chauffe1.uasset" 56
+"D:/Unreal Projects/TheHunt/Content/UI/Images/ShotgunShot/TEX_UI_Crosshair-Shotgun_chauffe2.uasset" 57
+"D:/Unreal Projects/TheHunt/Content/UI/Images/ShotgunShot/TEX_UI_Crosshair-Shotgun_chauffe1.uasset" 58
+"D:/Unreal Projects/TheHunt/Content/UI/Images/Selection/TEX_UI_Gun_icone_Pompe.uasset" 59
+"D:/Unreal Projects/TheHunt/Content/UI/Images/Selection/TEX_UI_Gun_icone_Normal.uasset" 60
+"D:/Unreal Projects/TheHunt/Content/UI/Images/Selection/TEX_UI_Gun_icone_Laser.uasset" 61
+"D:/Unreal Projects/TheHunt/Content/UI/Images/NormalShot/TEX_UI_Crosshair-Normal_Normal_chauffe2.uasset" 62
+"D:/Unreal Projects/TheHunt/Content/UI/Images/NormalShot/TEX_UI_Crosshair-Normal_Normal_chauffe1.uasset" 63
+"D:/Unreal Projects/TheHunt/Content/UI/Images/NormalShot/TEX_UI_Crosshair-Normal_chauffe2.uasset" 64
+"D:/Unreal Projects/TheHunt/Content/UI/Images/NormalShot/TEX_UI_Crosshair-Normal_chauffe1.uasset" 65
+"D:/Unreal Projects/TheHunt/Content/UI/Images/NormalShot/HUD-V2_aim_shoot.uasset" 66
+"D:/Unreal Projects/TheHunt/Content/UI/Images/NormalShot/HUD-V2_aim_normal.uasset" 67
+"D:/Unreal Projects/TheHunt/Content/UI/Images/BounceShot/TEX_UI_Crosshair-Laser_shoot.uasset" 68
+"D:/Unreal Projects/TheHunt/Content/UI/Images/BounceShot/TEX_UI_Crosshair-Laser_Normal_chauffe2.uasset" 69
+"D:/Unreal Projects/TheHunt/Content/UI/Images/BounceShot/TEX_UI_Crosshair-Laser_Normal_chauffe1.uasset" 70
+"D:/Unreal Projects/TheHunt/Content/UI/Images/BounceShot/TEX_UI_Crosshair-Laser_chauffe2.uasset" 71
+"D:/Unreal Projects/TheHunt/Content/UI/Images/BounceShot/TEX_UI_Crosshair-Laser_chauffe1.uasset" 72
+"D:/Unreal Projects/TheHunt/Content/UI/Images/BounceShot/TEX_UI_Crosshair-Laser.uasset" 73
+"D:/Unreal Projects/TheHunt/Content/UI/Images/ShotgunShot/TEX_UI_Crosshair-Shotgun.uasset" 74
+"D:/Unreal Projects/TheHunt/Content/UI/Fonts/Red_World.uasset" 75
+"D:/Unreal Projects/TheHunt/Content/UI/Fonts/Red_World_Font.uasset" 76
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset" 77
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset" 78
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 79
+"D:/Unreal Projects/TheHunt/Content/Blueprints/Environment/UpgradePart.uasset" 80
+"D:/Unreal Projects/TheHunt/Content/UI/HUD/PlayerWidget.uasset" 81
+"D:/Unreal Projects/TheHunt/Content/UI/Menus/GameOverScreen.uasset" 82
+"D:/Unreal Projects/TheHunt/Content/UI/Images/RT_UI_Gun.uasset" 83
+"D:/Unreal Projects/TheHunt/Content/UI/Images/MAT_RT_UI_Gun.uasset" 84
+"D:/Unreal Projects/TheHunt/Content/UI/Fonts/WARNING.uasset" 85
+"D:/Unreal Projects/TheHunt/Content/UI/Fonts/WARNING_Font.uasset" 86
+"D:/Unreal Projects/TheHunt/Content/UI/Menus/PauseMenu.uasset" 87
+"D:/Unreal Projects/TheHunt/Content/Blueprints/Hunter_BP.uasset" 88
+"D:/Unreal Projects/TheHunt/Content/Geometry/Meshes/CubeMaterial.uasset" 89
+"D:/Unreal Projects/TheHunt/Content/Geometry/Meshes/1M_Cube.uasset" 90
+"D:/Unreal Projects/TheHunt/Content/Blueprints/Environment/DestroyEnvionment.uasset" 91
+"D:/Unreal Projects/TheHunt/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 92
+"D:/Unreal Projects/TheHunt/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 93
+"D:/Unreal Projects/TheHunt/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 94
+"D:/Unreal Projects/TheHunt/Content/StarterContent/Textures/T_Burst_M.uasset" 95
+"D:/Unreal Projects/TheHunt/Content/StarterContent/Particles/Materials/M_Burst.uasset" 96
+"D:/Unreal Projects/TheHunt/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 97
+"D:/Unreal Projects/TheHunt/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 98
+"D:/Unreal Projects/TheHunt/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 99
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 100
+"D:/Unreal Projects/TheHunt/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 101
 "D:/Unreal Projects/TheHunt/Content/StarterContent/Particles/P_Explosion.uasset" 102
-"../../../Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset" 103
-"../../../Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset" 104
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 105
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 106
-"../../../Engine/Content/BasicShapes/Cone.uasset" 107
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 108
-"D:/Unreal Projects/TheHunt/Content/Blueprints/AI/IsPlayerAlive_Service.uasset" 109
-"D:/Unreal Projects/TheHunt/Content/Blueprints/AI/BE_BB.uasset" 110
-"D:/Unreal Projects/TheHunt/Content/Blueprints/AI/AI_BT.uasset" 111
-"D:/Unreal Projects/TheHunt/Content/Blueprints/AI/BE_AIController.uasset" 112
+"D:/Unreal Projects/TheHunt/Content/Blueprints/AI/BE_BB.uasset" 103
+"D:/Unreal Projects/TheHunt/Content/Blueprints/AI/IsPlayerAlive_Service.uasset" 104
+"D:/Unreal Projects/TheHunt/Content/Blueprints/AI/AI_BT.uasset" 105
+"D:/Unreal Projects/TheHunt/Content/Blueprints/AI/BE_AIController.uasset" 106
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 107
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 108
+"../../../Engine/Content/BasicShapes/Cone.uasset" 109
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 110
+"../../../Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset" 111
+"../../../Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset" 112
 "D:/Unreal Projects/TheHunt/Content/Blueprints/AI/BombEnemy.uasset" 113
 "D:/Unreal Projects/TheHunt/Content/Blueprints/TirsModes/BP_NormalLaser.uasset" 114
 "D:/Unreal Projects/TheHunt/Content/Blueprints/TirsModes/BP_EnnemiLaser.uasset" 115
@@ -159,23 +159,23 @@
 "D:/Unreal Projects/TheHunt/Content/Levels/ThirdPersonExampleMap_BuiltData.uasset" 158
 "D:/Unreal Projects/TheHunt/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 159
 "D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/PreVisual.uasset" 160
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 161
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Textures/T_Female_N.uasset" 162
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 163
-"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 164
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Textures/T_Female_N.uasset" 161
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 162
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 163
+"D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 164
 "D:/Unreal Projects/TheHunt/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 165
 "D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/alien_material/Triangles_metallic.uasset" 166
 "D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/alien_material/Triangles_normal.uasset" 167
-"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/noises/T_Perlin_Noise_M.uasset" 168
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 169
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 170
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 171
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 172
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 173
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 174
-"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Mat/sand/SableWaves_INST_roughness.uasset" 175
-"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Mat/sand/SableWaves_INST_height.uasset" 176
-"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Mat/sand/SableWaves_INST_basecolor.uasset" 177
+"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Mat/sand/SableWaves_INST_roughness.uasset" 168
+"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Mat/sand/SableWaves_INST_height.uasset" 169
+"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Mat/sand/SableWaves_INST_basecolor.uasset" 170
+"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/noises/T_Perlin_Noise_M.uasset" 171
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 172
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 173
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 174
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 175
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 176
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 177
 "D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/FX/DustWindSand.uasset" 178
 "D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/FX/DustWindSand_Inst.uasset" 179
 "D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/FX/81dvAPpe7iL__AC_SY355_.uasset" 180
@@ -185,9 +185,9 @@
 "D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/hardsurface/DupuyPaolo_EX3_piecemechanique_Low_1001_Height.uasset" 184
 "D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Mat/Rock/rochecanyonlignes_INST_basecolor.uasset" 185
 "D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Mat/Rock/rochecanyonlignes_INST_roughness.uasset" 186
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 187
-"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Mat/sand/SableWaves_INST_normal.uasset" 188
-"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Mat/sand/SableWaves_INST_ambientocclusion.uasset" 189
+"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Mat/sand/SableWaves_INST_normal.uasset" 187
+"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Mat/sand/SableWaves_INST_ambientocclusion.uasset" 188
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 189
 "D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Mat/sand/SandWaves.uasset" 190
 "D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Mat/sand/NewMaterial1.uasset" 191
 "D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Mat/sand/NewMaterial1_Inst.uasset" 192
@@ -211,13 +211,13 @@
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 210
 "../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 211
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldAlignedNormals_HighQuality.uasset" 212
-"../../../Engine/Content/EngineMaterials/DefaultNormal_Uncompressed.uasset" 213
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedNormal.uasset" 214
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 215
-"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Rochers/roches/roche_grise_2/roche_grise___2_roughness.uasset" 216
-"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Rochers/roches/roche_grise_2/roche_grise___2_normal.uasset" 217
-"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Rochers/roches/roche_grise_2/roche_grise___2_basecolor.uasset" 218
-"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Rochers/roches/roche_grise_2/roche_grise___2_ambientocclusion.uasset" 219
+"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Rochers/roches/roche_grise_2/roche_grise___2_roughness.uasset" 213
+"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Rochers/roches/roche_grise_2/roche_grise___2_normal.uasset" 214
+"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Rochers/roches/roche_grise_2/roche_grise___2_basecolor.uasset" 215
+"D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Rochers/roches/roche_grise_2/roche_grise___2_ambientocclusion.uasset" 216
+"../../../Engine/Content/EngineMaterials/DefaultNormal_Uncompressed.uasset" 217
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedNormal.uasset" 218
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 219
 "D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Rochers/rocher_desert/Rocher_master_desert.uasset" 220
 "D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Rochers/rocher_desert/Rocher_master_desert_Inst1.uasset" 221
 "D:/Unreal Projects/TheHunt/Content/Materials/TEXTURING/Rochers/roches/roche_grise_4/roche_grise___4_basecolor.uasset" 222
@@ -420,21 +420,21 @@
 "../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 419
 "../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 420
 "../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 421
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 422
-"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 423
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 424
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 425
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 426
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 427
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 428
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 429
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 430
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 431
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 432
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 433
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 434
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 435
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 436
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 422
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 423
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 424
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 425
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 426
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 427
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 428
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 429
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 430
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 431
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 432
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 433
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 434
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 435
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 436
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 437
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 438
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 439
@@ -514,11 +514,11 @@
 "D:/Unreal Projects/TheHunt/Content/Geometry/Meshs/Aliens/MES_ENV_AL_struct_Spaceship.uasset" 513
 "D:/Unreal Projects/TheHunt/Content/Blueprints/AI/TargetPointAI.uasset" 514
 "D:/Unreal Projects/TheHunt/Content/Blueprints/AI/SpawnActor_BP.uasset" 515
-"D:/Unreal Projects/TheHunt/Content/UI/Menus/VictoryScreen.uasset" 516
-"D:/Unreal Projects/TheHunt/Content/Blueprints/VictoryBoxTrigger.uasset" 517
-"D:/Unreal Projects/TheHunt/Content/Blueprints/Camera_Manager.uasset" 518
-"D:/Unreal Projects/TheHunt/Content/Blueprints/Hunter_PlayerController.uasset" 519
-"D:/Unreal Projects/TheHunt/Content/Blueprints/ThirdPersonGameMode.uasset" 520
+"D:/Unreal Projects/TheHunt/Content/Blueprints/Camera_Manager.uasset" 516
+"D:/Unreal Projects/TheHunt/Content/Blueprints/Hunter_PlayerController.uasset" 517
+"D:/Unreal Projects/TheHunt/Content/Blueprints/ThirdPersonGameMode.uasset" 518
+"D:/Unreal Projects/TheHunt/Content/UI/Menus/VictoryScreen.uasset" 519
+"D:/Unreal Projects/TheHunt/Content/Blueprints/VictoryBoxTrigger.uasset" 520
 "D:/Unreal Projects/TheHunt/Content/Levels/BlockOut_Map.umap" 521
 "D:/Unreal Projects/TheHunt/Content/ThirdPerson/Meshes/RampMaterial.uasset" 522
 "D:/Unreal Projects/TheHunt/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 523
